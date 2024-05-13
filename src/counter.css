@@ -1,0 +1,39 @@
+.TO_Do_list{
+    border : 5px solid;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+
+.Header
+{
+    color: white;
+}
+
+.input input{
+    padding:10px;
+    color: white;
+    border-radius: 10px;
+    background-color: grey; 
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+button{
+    margin: 10px;
+    padding:10px;
+    border-radius: 10px;
+    font-weight: 1000;
+   background-color: #ccbf76;
+}
+
+.list{
+    border:3px solid;
+    border-radius: 10px;
+    color: white;
+    border-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
